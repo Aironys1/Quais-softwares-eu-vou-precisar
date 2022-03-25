@@ -1,0 +1,12 @@
+Quais softwares eu vou precisar
+
+Vs Code - O mais usado  no momento, os mais atuais no momento.
+
+Podemos usar também o bloco de notas para escrever os códigos, mas o vs code é mais completo,
+
+pois tem extensões e muitos mais recursos.
+
+Um bom editor também é o Sublime text.
+
+
+link para baixar o vs code:  https://code.visualstudio.com/
